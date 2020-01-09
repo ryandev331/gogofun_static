@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="51" height="51" viewBox="0 0 51 51">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_692" data-name="Path 692" d="M25.5,0A25.5,25.5,0,1,1,0,25.5,25.5,25.5,0,0,1,25.5,0Z" transform="translate(603 752)" fill="#fff" stroke="#e0e0e0" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_3" data-name="Mask Group 3" transform="translate(-603 -752)" clip-path="url(#clip-path)">
+    <g id="Google-Button" transform="translate(602 752)">
+      <g id="btn_google_dark_focus" transform="translate(-5 -7)">
+        <rect id="Rectangle-14" width="64" height="64" fill="rgba(66,133,244,0.3)"/>
+        <g id="button" transform="translate(4.158 4.158)">
+          <g id="button-bg">
+            <rect id="Rectangle_1326" data-name="Rectangle 1326" width="55.445" height="55.445" rx="2.174" fill="#4285f4"/>
+            <rect id="Rectangle_1327" data-name="Rectangle 1327" width="55.445" height="55.445" rx="2.174" fill="none"/>
+            <rect id="Rectangle_1328" data-name="Rectangle 1328" width="55.445" height="55.445" rx="2.174" fill="none"/>
+            <rect id="Rectangle_1329" data-name="Rectangle 1329" width="55.445" height="55.445" rx="2.174" fill="none"/>
+          </g>
+        </g>
+        <g id="button-bg-copy" transform="translate(5.544 5.544)">
+          <rect id="Rectangle_1330" data-name="Rectangle 1330" width="52.673" height="52.673" rx="1.087" fill="#fff"/>
+          <rect id="Rectangle_1331" data-name="Rectangle 1331" width="52.673" height="52.673" rx="1.087" fill="none"/>
+          <rect id="Rectangle_1332" data-name="Rectangle 1332" width="52.673" height="52.673" rx="1.087" fill="none"/>
+          <rect id="Rectangle_1333" data-name="Rectangle 1333" width="52.673" height="52.673" rx="1.087" fill="none"/>
+        </g>
+        <g id="logo_googleg_48dp" transform="translate(19.406 19.406)">
+          <path id="Shape" d="M21.759,10.556A14.334,14.334,0,0,0,21.532,8H9.783V12.83H16.5a5.739,5.739,0,0,1-2.489,3.765v3.13h4.032a12.167,12.167,0,0,0,3.72-9.169Z" transform="translate(2.693 2.203)" fill="#4285f4" fill-rule="evenodd"/>
+          <path id="Shape-2" data-name="Shape" d="M12.189,21.746a11.91,11.91,0,0,0,8.256-3.022l-4.032-3.13a7.526,7.526,0,0,1-11.2-3.952H1.041v3.232a12.47,12.47,0,0,0,11.148,6.873Z" transform="translate(0.286 3.204)" fill="#34a853" fill-rule="evenodd"/>
+          <path id="Shape-3" data-name="Shape" d="M5.495,13.362a7.375,7.375,0,0,1,0-4.741V5.389H1.327a12.491,12.491,0,0,0,0,11.2l4.168-3.232Z" transform="translate(0 1.483)" fill="#fbbc05" fill-rule="evenodd"/>
+          <path id="Shape-4" data-name="Shape" d="M12.189,4.962a6.739,6.739,0,0,1,4.769,1.866l3.578-3.578A11.989,11.989,0,0,0,12.189,0,12.47,12.47,0,0,0,1.041,6.873L5.208,10.1a7.435,7.435,0,0,1,6.98-5.143Z" transform="translate(0.286 0)" fill="#ea4335" fill-rule="evenodd"/>
+          <path id="Shape-5" data-name="Shape" d="M0,0H24.95V24.95H0Z" transform="translate(0 0)" fill="none" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

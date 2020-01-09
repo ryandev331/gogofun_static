@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{693:function(n,t,e){"use strict";e.r(t);var o={data:function(){return{}},components:{},computed:{},methods:{},mounted:function(){}},c=e(11),component=Object(c.a)(o,(function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("會員中心")])}),[],!1,null,null,null);t.default=component.exports}}]);
